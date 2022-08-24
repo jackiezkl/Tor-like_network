@@ -1,0 +1,319 @@
+python3 start.py 
+http://www.google.de
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.youtube.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.facebook.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.twitter.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.instagram.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.baidu.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.wikipedia.org
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.yandex.ru
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.yahoo.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.xvideos.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://whatsapp.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.amazon.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.xnxx.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.pornhub.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.netflix.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://yahoo.co.jp
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.live.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.tiktok.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.docomo.ne.jp
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.reddit.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.linkedin.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.vk.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.xhamster.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.office.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.discord.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.switch.tv
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.bing.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.turbopages.org
+Page could not open!
+No.1 finished.
+Page could not open!
+No.2 finished.
+Page could not open!
+No.3 finished.
+Page could not open!
+No.4 finished.
+Page could not open!
+No.5 finished.
+http://www.roblox.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.naver.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.bilibili.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.zoom.us
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.mail.ru
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.pinterest.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.qq.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.duckduckgo.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.microsoftonline.com
+Page could not open!
+No.1 finished.
+Page could not open!
+No.2 finished.
+Page could not open!
+No.3 finished.
+Page could not open!
+No.4 finished.
+Page could not open!
+No.5 finished.
+http://www.msn.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://news.yahoo.co.jp
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.fandom.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.accuweather.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.realsrv.com
+Page could not open!
+No.1 finished.
+Page could not open!
+No.2 finished.
+Page could not open!
+No.3 finished.
+Page could not open!
+No.4 finished.
+Page could not open!
+No.5 finished.
+http://www.stripchat.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.ebay.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.microsoft.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.globo.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.google.com.br
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.weather.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.samsung.com
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+http://www.ok.ru
+No.1 finished.
+No.2 finished.
+No.3 finished.
+No.4 finished.
+No.5 finished.
+node11@node11:~/Downloads/selenium$ 
+
+
