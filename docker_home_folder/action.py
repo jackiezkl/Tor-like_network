@@ -25,6 +25,9 @@ def main():
             screenshot_save_path = '/home/results/screenshots/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
             #print(screenshot_save_path)
             visit_page_driver.get_screenshot_as_file(screenshot_save_path)
+            difference = end_time - start_time
+            record = str(website_number)+","+str(i+1)+","+str(difference))
+            os.system("echo %s >> /home/results/time.txt" % record)
             #print(visit_page_driver.page_source)
         except KeyboardInterrupt:
             print("Quiting...")
