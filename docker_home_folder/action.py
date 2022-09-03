@@ -15,8 +15,12 @@ def main():
         try:
             options = FirefoxOptions()
             options.add_argument("--headless")
-            options.add_argument("--proxy-server=socks5://172.17.0.1:9050")
-            visit_page_driver = webdriver.Firefox(options=options)
+            profile = webdriver.FirefoxProfile()
+            profile.set_preference('network.proxy.type',1)
+            profile.set_preference('network.proxy.socks', '172.17.0.1')
+            profile.set_preference('network.proxy.socks_port',9050)
+            
+            visit_page_driver = webdriver.Firefox(options=options,firefox_profile=profile)
 
             start_time = time.perf_counter()
             visit_page_driver.get(visit_url)
