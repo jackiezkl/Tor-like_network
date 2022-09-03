@@ -14,7 +14,8 @@ def main():
     for i in range(0,5):
         try:
             options = FirefoxOptions()
-            options.add_argument("--headless --proxy-server=socks5://172.17.0.1:9050")
+            options.add_argument("--headless")
+            options.add_argument("--proxy-server=socks5://172.17.0.1:9050")
             visit_page_driver = webdriver.Firefox(options=options)
 
             start_time = time.perf_counter()
