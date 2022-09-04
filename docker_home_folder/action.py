@@ -15,6 +15,8 @@ def main():
         try:
             options = FirefoxOptions()
             options.add_argument("--headless")
+            
+##          uncomment the next 3 lines to use Tor on the host as a proxy
             options.set_preference('network.proxy.type',1)
             options.set_preference('network.proxy.socks', '172.17.0.1')
             options.set_preference('network.proxy.socks_port',9050)
