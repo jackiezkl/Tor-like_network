@@ -27,7 +27,7 @@ def main():
             visit_page_driver.get(visit_url)
             end_time = time.perf_counter()
 
-            #filename of the screenshot as: site_website number_visit number_loadtime.png
+            #filename of the screenshot as: website-number_visit-number_loadtime.png
             screenshot_save_path = '/home/results/screenshots/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
             visit_page_driver.get_screenshot_as_file(screenshot_save_path)
             difference = end_time - start_time
@@ -36,6 +36,7 @@ def main():
             #print(visit_page_driver.page_source)
         except KeyboardInterrupt:
             print("Quiting...")
+            visit_page_driver.quit()
             sys.exit()
         except:
             print("Page could not open!")
