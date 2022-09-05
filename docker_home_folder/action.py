@@ -32,7 +32,7 @@ def main():
             visit_page_driver.get_screenshot_as_file(screenshot_save_path)
             difference = end_time - start_time
             record = str(website_number) + "," + str(i+1)+","+str(difference)
-            os.system("echo %s >> /home/results/time.txt" % record)
+            os.system("echo %s >> /home/results/time." % record)
             #print(visit_page_driver.page_source)
         except KeyboardInterrupt:
             print("Quiting...")
