@@ -21,7 +21,8 @@ def main(visit_type):
 
 
     commd = "make run arg1='"+str(n+1)+"' arg2="+visit_type
-    subprocess.run(commd,shell=True)
+    print(commd)
+#     subprocess.run(commd,shell=True)
 
 if __name__ == '__main__':
   if len(sys.argv) == 1:
