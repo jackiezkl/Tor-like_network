@@ -20,7 +20,7 @@ def main(visit_type):
       linewriter.writerow(line[0])
 
 
-    commd = "make run args='"+str(n+1)+"'" 
+    commd = "make run arg1='"+str(n+1)+"' arg2="+visit_type
     subprocess.run(commd,shell=True)
 
 if __name__ == '__main__':
