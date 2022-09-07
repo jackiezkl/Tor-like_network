@@ -45,4 +45,7 @@ def main():
         time.sleep(5)
 
 if __name__ == "__main__":
+    if len(sys.argv) == 1:
+        print("It doesn't seems like you are using the program as it was designed to be used. Please run the Start.py in the root folder.")
+        sys.exit(1)
     main()
