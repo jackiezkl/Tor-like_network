@@ -22,7 +22,7 @@ def main():
             end_time = time.perf_counter()
 
             #filename of the screenshot as: website-number_visit-number_loadtime.png
-            screenshot_save_path = '/home/results/screenshots/regular/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
+            screenshot_save_path = '/home/results/regular/screenshots/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
             visit_page_driver.get_screenshot_as_file(screenshot_save_path)
             difference = end_time - start_time
             record = str(website_number) + "," + str(i+1)+","+str(difference)
