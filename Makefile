@@ -8,7 +8,7 @@ build:
 	@docker build -t seleniumnode --rm .
 
 run:
-	@docker run -it --rm --privileged --name selenium ${VOLUMES} seleniumnode /home/Entrypoint.sh $(args)
+	@docker run -it --rm --privileged --name selenium ${VOLUMES} seleniumnode /home/Entrypoint.sh $(arg1) $(arg2)
 
 destroy:
 	@docker rmi seleniumnode
