@@ -15,12 +15,6 @@ def main():
         try:
             options = FirefoxOptions()
             options.add_argument("--headless")
-            
-##          uncomment the next 3 lines to use Tor on the host as a proxy
-#             options.set_preference('network.proxy.type',1)
-#             options.set_preference('network.proxy.socks', '172.17.0.1')
-#             options.set_preference('network.proxy.socks_port',9050)
-            
             visit_page_driver = webdriver.Firefox(options=options)
 
             start_time = time.perf_counter()
@@ -28,11 +22,11 @@ def main():
             end_time = time.perf_counter()
 
             #filename of the screenshot as: website-number_visit-number_loadtime.png
-            screenshot_save_path = '/home/results/screenshots/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
+            screenshot_save_path = '/home/results/screenshots/regular/site_'+str(website_number)+"_"+str(i+1)+"_"+str(f"{end_time-start_time:0.6f}")+'.png'
             visit_page_driver.get_screenshot_as_file(screenshot_save_path)
             difference = end_time - start_time
             record = str(website_number) + "," + str(i+1)+","+str(difference)
-            os.system("echo %s >> /home/results/time.csv" % record)
+            os.system("echo %s >> /home/results/regular/time.csv" % record)
             #print(visit_page_driver.page_source)
         except KeyboardInterrupt:
             print("Quiting...")
