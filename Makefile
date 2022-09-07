@@ -1,5 +1,8 @@
 VOLUMES = \
 	--volume=`pwd`/docker_home_folder/results:/home/results\
+	--volume=`pwd`/docker_home_folder/results/regular/screenshots:/home/results/regular/screenshots\
+	--volume=`pwd`/docker_home_folder/results/tor/screenshots:/home/results/tor/screenshots\
+	--volume=`pwd`/docker_home_folder/results/tor-like/screenshots:/home/results/tor-like/screenshots\
 	--volume=`pwd`/docker_home_folder/Entrypoint.sh:/home/Entrypoint.sh\
 	--volume=`pwd`/docker_home_folder/etc:/home/etc\
 	--volume=`pwd`/docker_home_folder/action.py:/home/action.py
