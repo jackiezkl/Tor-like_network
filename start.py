@@ -1,7 +1,7 @@
 import os,csv,subprocess
   
 #pop the first 2 website from the top 50 list, save to a new file, 
-for n in range(0,100):
+for n in range(0,50):
     line = []
 
     with open("./docker_home_folder/etc/list.csv") as csvfile:
