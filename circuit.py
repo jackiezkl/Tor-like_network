@@ -1,6 +1,8 @@
 from stem import CircStatus
 from stem.control import Controller
 
+
+#show the current built circuit
 with Controller.from_port(port = 9051) as controller:
   controller.authenticate()
 
