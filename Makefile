@@ -5,7 +5,9 @@ VOLUMES = \
 	--volume=`pwd`/docker_home_folder/results/tor-like/screenshots:/home/results/tor-like/screenshots\
 	--volume=`pwd`/docker_home_folder/Entrypoint.sh:/home/Entrypoint.sh\
 	--volume=`pwd`/docker_home_folder/etc:/home/etc\
-	--volume=`pwd`/docker_home_folder/action.py:/home/action.py
+	--volume=`pwd`/docker_home_folder/action.py:/home/action.py\
+	--volume=`pwd`/docker_home_folder/tor_action.py:/home/tor_action.py\
+	--volume=`pwd`/docker_home_folder/tor_like_action.py:/home/tor_like_action.py
 	
 build:
 	@docker build -t seleniumnode --rm .
