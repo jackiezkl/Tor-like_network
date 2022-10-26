@@ -1,5 +1,7 @@
 import os,sys,csv,subprocess
-  
+
+# main function, the user option will be checked to decide whether to use regular, 
+# tor, or tor-like program. it passes two args: number and user option to "make run"
 def main(visit_type):
   for n in range(0,50):
     line = []
@@ -24,6 +26,7 @@ def main(visit_type):
     subprocess.run(commd,shell=True)
 
 if __name__ == '__main__':
+#   check and prompt the usage to user
   if len(sys.argv) == 1:
     print("Usage: %s <regular> | <tor> | <tor-like>" % (sys.argv[0]))
     sys.exit(1)
